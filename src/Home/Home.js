@@ -6,6 +6,7 @@ import 'animate.css'
 import WhyUse from '../WhyUse/WhyUse';
 import Clint from '../Clint/Clint';
 import './Home.css'
+import Footer from '../Footer/Footer';
 
 const Home = () => {
   return (
@@ -14,7 +15,8 @@ const Home = () => {
       <Banner></Banner>
      <Items></Items> 
      <WhyUse></WhyUse>
-     <Clint></Clint>    
+     <Clint></Clint> 
+     <Footer></Footer>   
     </div>
   );
 };

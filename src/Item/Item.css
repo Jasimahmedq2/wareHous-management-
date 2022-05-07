@@ -4,3 +4,7 @@
   width: 50%;
   border-radius: 50%;
 }
+.items-container p{
+  padding: 0px;
+  margin: 0px;
+}

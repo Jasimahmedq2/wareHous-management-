@@ -1,63 +1,71 @@
 [
   {
-    "_id": "6275cd8312951810b9790898",
+    "_id": "6275cd8312951810b9790898", 
+    "itemname": "vagitable",
     "index": 0,
-    "isActive": false,
     "price": "$3,181.05",
+    "description": " fruits and vegetables need to be prepared for sale. This can be undertaken on the farm or at the level of retail, wholesale or supermarket",
     "image": "https://i.ibb.co/q9WBp1F/delivery-concept-handsome-africa.jpg",
     "quantity": 40,
     "name": "Branch Valencia"
   },
   {
     "_id": "6275cd83fcef10c3fb8bd04d",
+    "itemname": "Milk",
     "index": 1,
-    "isActive": true,
     "price": "$2,917.30",
+    "description": "Good nutritional value, soluble ingredient, rich in natural milk fat, emulsifying capacity, smooth mouthfeel, natural milky taste and odour, great milk solid.",
     "image": "https://i.ibb.co/M52W2Mw/pexels-engin-akyurt-1435706.jpg",
     "quantity": 21,
     "name": "Arnold Mercado"
   },
   {
     "_id": "6275cd83b6d3766741cd9308",
+    "itemname": "tomato",
     "index": 2,
-    "isActive": true,
     "price": "$3,937.54",
+     "description": " Our range of Tomato Sorting Conveyor systems helps us in classifying and sorting vegetables and fruits in accordance to their weight ",
     "image": "https://i.ibb.co/RSKwbrZ/pexels-engin-akyurt-2899682.jpg",
     "quantity": 29,
     "name": "Florence Turner"
   },
   {
     "_id": "6275cd838c645b3ccbe97dd6",
+    "itemname": "cake",
     "index": 3,
-    "isActive": true,
     "price": "$1,086.22",
+    "description": "The cake decorator's responsibilities include taking customers' cake orders, recording instructions and special requests",
+
     "image": "https://i.ibb.co/3hz9d7y/pexels-federica-gioia-11158836.jpg",
     "quantity": 36,
     "name": "Sheree Castaneda"
   },
   {
     "_id": "6275cd83a94e7b69985d1fb0",
+    "itemname": "Egg",
     "index": 4,
-    "isActive": false,
     "price": "$1,424.97",
+    "description": "Eggs can also be packed in packages that are smaller and specific for retail sale. Each package can hold from two to twelve eggs",
     "image": "https://i.ibb.co/H7WSn2Q/pexels-felipe-queiroz-6878230.jpg",
     "quantity": 35,
     "name": "Hampton Ryan"
   },
   {
     "_id": "6275cd8312951810b979fb11",
+    "itemname": "spaces",
     "index": 5,
-    "isActive": true,
     "price": "$1,932.44",
+    "description": "Spaces is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop",
     "image":"https://i.ibb.co/KhqqJcg/pexels-krisztina-papp-2271730.jpg",
     "quantity": 29,
     "name": "Celina Mcdonald"
   },
   {
     "_id": "6275cd836626b2069aba9b40",
+    "itemname": "vagitable",
     "index": 6,
-    "isActive": true,
     "price": "$1,351.46",
+    "description": "Spaces is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop",
     "image": "https://i.ibb.co/QFCjFzZ/pexels-mareefe-1022385.jpg",
     "quantity": 22,
     "name": "Brittany Allison"
@@ -65,8 +73,8 @@
   {
     "_id": "6275cd83bfc3acd5961f6351",
     "index": 7,
-    "isActive": true,
     "price": "$3,421.09",
+    "description": "",
     "image": "https://i.ibb.co/nbhQSzj/pexels-michael-burrows-7129145.jpg",
     "quantity": 27,
     "name": "Andrews Norman"
@@ -74,8 +82,8 @@
   {
     "_id": "6275cd83d26664d07116a5bf",
     "index": 8,
-    "isActive": true,
     "price": "$2,058.37",
+    "description": "",
     "image": "https://i.ibb.co/Rg37CYZ/pexels-regina-ferraz-4748543.jpg",
     "quantity": 36,
     "name": "Angie Blackburn"
@@ -83,8 +91,8 @@
   {
     "_id": "6275cd836334470261ecf77c",
     "index": 9,
-    "isActive": false,
     "price": "$2,408.92",
+    "description": "",
     "image": "https://i.ibb.co/d0dZP2X/pexels-suzy-hazelwood-1306548.jpg",
     "quantity": 32,
     "name": "Russo Sutton"
@@ -92,8 +100,8 @@
   {
     "_id": "6275cd83e036a97523ecfdd8",
     "index": 10,
-    "isActive": true,
     "price": "$1,871.81",
+    "description": "",
     "image": "https://i.ibb.co/DY5G1f4/pexels-trang-doan-1128678.jpg",
     "quantity": 32,
     "name": "Dolly Horton"
