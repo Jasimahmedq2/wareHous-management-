@@ -2,6 +2,7 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import Item from '../Item/Item';
 import 'animate.css'
+import './Items.css'
 
 
 const Items = () => {
@@ -13,7 +14,7 @@ const Items = () => {
     .then(data => setItems(data))
   },[])
   return (
-    <div className='row'>
+    <div className='row items-container'>
       {
         Items.slice(0, 6).map(item => <Item key={item._id} item={item}></Item>)
       }

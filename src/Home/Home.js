@@ -3,13 +3,15 @@ import Banner from '../Banner/Banner'
 import Header from '../Header/Header';
 import Items from '../Items/Items';
 import 'animate.css'
+import WhyUse from '../WhyUse/WhyUse';
 
 const Home = () => {
   return (
     <div>
       <Header></Header>
       <Banner></Banner>
-     <Items></Items>     
+     <Items></Items> 
+     <WhyUse></WhyUse>    
     </div>
   );
 };
