@@ -1,0 +1,6 @@
+.image-container img{
+  height: 150px;
+  width: 150px;
+  border-radius: 20%;
+  margin: 10px;
+}
