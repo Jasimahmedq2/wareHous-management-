@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 import Item from '../Item/Item';
+import 'animate.css'
 
 
 const Items = () => {
@@ -12,12 +13,12 @@ const Items = () => {
     .then(data => setItems(data))
   },[])
   return (
-    <div>
-      <p>item quantity: {Items.length}</p>
+    <div className='row'>
       {
         Items.slice(0, 6).map(item => <Item key={item._id} item={item}></Item>)
       }
     </div>
+     
   );
 };
 

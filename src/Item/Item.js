@@ -2,18 +2,14 @@ import React from 'react';
 import './Item.css'
 
 const Item = ({ item }) => {
-  const { name, image, quantity, price, supplier, } = item;
+  const { name, quantity, price, } = item;
   return (
-      <div className='mt-5 item-container row'> 
-        <div className='item-child col-lg-6'>
-
-          <img src={image} alt="" />
-          <h3>{name}</h3>
-          <h4>{quantity}</h4>
-          <p>{price}</p>
-          <p>{supplier}</p>
-        </div>
-      </div>
+    <div className='col-12 col-md-6 col-lg-4 animate__animated animate__slideInLeft'>
+      <p>{name}</p>
+      <p>{quantity}</p>
+      <p>{price}</p>
+      <button className='btn btn-primary btn-service'>somthin</button>
+    </div>
   );
 };
 
