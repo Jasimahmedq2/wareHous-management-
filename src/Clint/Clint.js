@@ -9,7 +9,7 @@ import './Clint.css'
 
 const Clint = () => {
   return (
-    <div className='my-5'>
+    <div className='my-5 mt-5'>
       <h2>Our Clients</h2>
     <div className='row'>
     <div className='col-6 col-md-4 col-lg-4 image-container w-50 mx-auto my-5 '>
