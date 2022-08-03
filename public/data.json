@@ -1,6 +1,5 @@
 [
   {
-    "_id": "6275cd8312951810b9790898", 
     "itemname": "vagitable",
     "index": 0,
     "price": "$3,181.05",
@@ -10,7 +9,6 @@
     "name": "Branch Valencia"
   },
   {
-    "_id": "6275cd83fcef10c3fb8bd04d",
     "itemname": "Milk",
     "index": 1,
     "price": "$2,917.30",
@@ -20,7 +18,6 @@
     "name": "Arnold Mercado"
   },
   {
-    "_id": "6275cd83b6d3766741cd9308",
     "itemname": "tomato",
     "index": 2,
     "price": "$3,937.54",
@@ -30,7 +27,6 @@
     "name": "Florence Turner"
   },
   {
-    "_id": "6275cd838c645b3ccbe97dd6",
     "itemname": "cake",
     "index": 3,
     "price": "$1,086.22",
@@ -41,7 +37,6 @@
     "name": "Sheree Castaneda"
   },
   {
-    "_id": "6275cd83a94e7b69985d1fb0",
     "itemname": "Egg",
     "index": 4,
     "price": "$1,424.97",
@@ -51,7 +46,6 @@
     "name": "Hampton Ryan"
   },
   {
-    "_id": "6275cd8312951810b979fb11",
     "itemname": "spaces",
     "index": 5,
     "price": "$1,932.44",
@@ -61,7 +55,6 @@
     "name": "Celina Mcdonald"
   },
   {
-    "_id": "6275cd836626b2069aba9b40",
     "itemname": "vagitable",
     "index": 6,
     "price": "$1,351.46",
@@ -71,7 +64,6 @@
     "name": "Brittany Allison"
   },
   {
-    "_id": "6275cd83bfc3acd5961f6351",
     "index": 7,
     "price": "$3,421.09",
     "description": "",
@@ -80,7 +72,6 @@
     "name": "Andrews Norman"
   },
   {
-    "_id": "6275cd83d26664d07116a5bf",
     "index": 8,
     "price": "$2,058.37",
     "description": "",
@@ -89,7 +80,6 @@
     "name": "Angie Blackburn"
   },
   {
-    "_id": "6275cd836334470261ecf77c",
     "index": 9,
     "price": "$2,408.92",
     "description": "",
@@ -98,7 +88,6 @@
     "name": "Russo Sutton"
   },
   {
-    "_id": "6275cd83e036a97523ecfdd8",
     "index": 10,
     "price": "$1,871.81",
     "description": "",

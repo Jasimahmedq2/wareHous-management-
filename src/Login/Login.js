@@ -50,7 +50,9 @@ const Login = () => {
   }
   return (
 
-    <form onSubmit={handleSubmiteForm}>
+    <div>
+      <h2 className='text-center text-primary my-2'>please sing up</h2>
+      <form onSubmit={handleSubmiteForm}>
       {errorElement}
       <div className='w-50 mx-auto mt-5'>
         <div className="mb-3">
@@ -66,6 +68,7 @@ const Login = () => {
       </div>
       <GoogleSingin></GoogleSingin>
     </form>
+    </div>
 
   );
 };
